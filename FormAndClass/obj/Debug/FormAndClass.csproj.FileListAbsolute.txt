@@ -1,0 +1,21 @@
+H:\FormAndClass\FormAndClass\obj\Debug\FormAndClass.csprojAssemblyReference.cache
+H:\FormAndClass\FormAndClass\obj\Debug\FormAndClass.Form1.resources
+H:\FormAndClass\FormAndClass\obj\Debug\FormAndClass.Properties.Resources.resources
+H:\FormAndClass\FormAndClass\obj\Debug\FormAndClass.csproj.GenerateResource.cache
+H:\FormAndClass\FormAndClass\obj\Debug\FormAndClass.csproj.CoreCompileInputs.cache
+H:\FormAndClass\FormAndClass\bin\Debug\FormAndClass.exe.config
+H:\FormAndClass\FormAndClass\bin\Debug\FormAndClass.exe
+H:\FormAndClass\FormAndClass\bin\Debug\FormAndClass.pdb
+H:\FormAndClass\FormAndClass\obj\Debug\FormAndClass.exe
+H:\FormAndClass\FormAndClass\obj\Debug\FormAndClass.pdb
+H:\C# GUI\FormAndClass\FormAndClass\obj\Debug\FormAndClass.csprojAssemblyReference.cache
+H:\C# GUI\FormAndClass\FormAndClass\obj\Debug\FormAndClass.Form1.resources
+H:\C# GUI\FormAndClass\FormAndClass\obj\Debug\FormAndClass.Properties.Resources.resources
+H:\C# GUI\FormAndClass\FormAndClass\obj\Debug\FormAndClass.csproj.GenerateResource.cache
+H:\C# GUI\FormAndClass\FormAndClass\obj\Debug\FormAndClass.csproj.CoreCompileInputs.cache
+H:\C# GUI\FormAndClass\FormAndClass\obj\Debug\FormAndClass.exe
+H:\C# GUI\FormAndClass\FormAndClass\obj\Debug\FormAndClass.pdb
+H:\C# GUI\FormAndClass\FormAndClass\bin\Debug\FormAndClass.exe.config
+H:\C# GUI\FormAndClass\FormAndClass\bin\Debug\FormAndClass.exe
+H:\C# GUI\FormAndClass\FormAndClass\bin\Debug\FormAndClass.pdb
+H:\C# GUI\FormAndClass\FormAndClass\obj\Debug\FormAndClass.PictureBoxForm.resources
